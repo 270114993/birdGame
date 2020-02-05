@@ -1,0 +1,19 @@
+{
+	"game": {
+		"name": "game1",
+		"appid": "676205731",
+		"cid": "13104"
+	},
+	"configs": [
+		{
+			"appid": "676205731",
+			"services": [
+				{
+					"service_id": "241",
+					"enable": true
+				}
+			]
+		}
+	],
+	"needExecNative": true
+}
